@@ -1,17 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HYAI HomePage (HYAI-Web)
+
+This Project is HYAI (Hanyang University ERICA Artificial Intelligence Academic Club) HomePage.
+
+Project Init by<br>
+
+ [![@ghdi1ghdi](https://img.shields.io/badge/@ghdi1ghdi-000000?style=flat&logo=Github&logoColor=white)](https://github.com/ghdi1ghdi)
+
+
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
+yarn serve
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
